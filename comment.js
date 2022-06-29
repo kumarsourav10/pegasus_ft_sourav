@@ -4,7 +4,5 @@
      this is multiline comment
      my name is sourav 
      I am learning javascript 
-     
+     i just add one more line
 */
-  const a = "sourav"
-   console.log (a);
