@@ -10,3 +10,6 @@
 */
 const a = "sourav";
 console.log(a);
+
+const b = "sourav";
+console.log(a);
